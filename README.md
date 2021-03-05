@@ -12,7 +12,7 @@ QuickUptime Quick Uptime is a powerful module which allows you to ping any websi
 Made by Lebyy_Dev.
 
 ### NPM
-- [SmartestChatBot](https://www.npmjs.com/package/quickuptime)
+- [QuickUptime](https://www.npmjs.com/package/quickuptime)
 
 ### GitHub Repo
 - [GitHub Repo](https://github.com/Lebyy/quickuptime)

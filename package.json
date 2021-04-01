@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Lebyy/QuickUptime-Example#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "quickuptime": "^1.0.5-Patch"
+    "quickuptime": "^1.0.6"
   }
 }
